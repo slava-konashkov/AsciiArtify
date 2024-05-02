@@ -8,3 +8,6 @@
 | **Resource Use** | More resources, especially with VMs. | Relatively fewer resources. | Minimal resource consumption. |
 | **Best suited for** | Developers needing a full cluster emulation.<br>Learning and demos. | Containerized testing.<br>Microservices development. | Rapid deployment and testing.<br>Small/lightweight projects. |
 | **Features**      | - Supports Addons like Ingress, Istio.<br>- Customizable Dashboard.<br>- Command line management. | - Works on Windows, Mac, and Linux.<br>- Supports multiple clusters. | - Very fast startup.<br>- Integration with Rancher for cluster management. |
+
+# Demo
+[![asciicast](https://asciinema.org/a/657506.svg)](https://asciinema.org/a/657506)
